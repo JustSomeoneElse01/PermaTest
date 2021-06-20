@@ -1,9 +1,14 @@
+class hello1  {
+		
+}
 
 public class MainTest {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("hello world");
+		String var = "Hello World!";
+		
+		System.out.println(var);
 		
 	}
 	
