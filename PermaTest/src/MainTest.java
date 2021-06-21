@@ -1,4 +1,8 @@
 class Test  {
+	
+	public Test() {
+		System.out.println("Les jomp stroooiiit intu the neeeews");
+	}
 		
 	public void message() {
 		System.out.println("test");
@@ -23,7 +27,7 @@ public class MainTest {
 		
 		test.message();
 		
-		test.printLine("Hello there");
+		test.printLine("Hello there" );
 		
 	}
 	
