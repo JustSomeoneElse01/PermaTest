@@ -8,7 +8,7 @@ class Test {
 		System.out.println("test");
 	}
 
-	public void printLine(String s) {
+	public void ln(String s) {
 		System.out.println(s);
 	}
 	
@@ -18,15 +18,15 @@ public class MainTest {
 	
 	public static void main(String[] args) {
 		
-		Test test = new Test();
+		Test p = new Test();
 		
 		String var = "Hello World!";
 		
 		System.out.println(var);
 		
-		test.message();
+		p.message();
 		
-		test.printLine("Hello there");
+		p.ln("Hello there");
 		
 	}
 	
