@@ -1,7 +1,9 @@
 class Test  {
 	
 	public Test() {
-		System.out.println("Les jomp stroooiiit intu the nieeeews");
+		
+		System.out.println("Les jomp stroooiiit intu the nieeeews!");
+
 	}
 		
 	public void message() {
